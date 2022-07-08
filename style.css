@@ -28,3 +28,7 @@ nav ul li a:hover {
     color: red;
     text-decoration: underline;
 }
+button{
+    background-color: blueviolet;
+    color: white;
+}
